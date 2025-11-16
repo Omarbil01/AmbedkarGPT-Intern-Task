@@ -9,14 +9,11 @@ A Retrieval-Augmented Generation (RAG) application that allows users to ask ques
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
-- [How It Works](#how-it-works)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Output](#output)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ##  Overview
 
