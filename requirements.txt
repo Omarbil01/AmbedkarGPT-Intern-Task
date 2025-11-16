@@ -3,3 +3,6 @@ langchain-community
 langchain-ollama
 chromadb
 sentence-transformers
+langchain-text-splitters
+langchain-core
+
